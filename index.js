@@ -9,6 +9,7 @@ require("dotenv").config();
 
 app.use(cors({
   origin: 'https://spontaneous-douhua-6c4fa6.netlify.app',
+  methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
 }));
 app.use(express.json());
