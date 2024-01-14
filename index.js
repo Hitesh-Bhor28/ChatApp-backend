@@ -7,7 +7,10 @@ const app = express();
 const socket = require("socket.io");
 require("dotenv").config();
 
-app.use(cors());
+app.use(cors({
+  origin: 'https://spontaneous-douhua-6c4fa6.netlify.app',
+  credentials: true,
+}));
 app.use(express.json());
 
 mongoose
