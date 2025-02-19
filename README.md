@@ -4,12 +4,12 @@
    git clone https://github.com/Hitesh-Bhor28/ChatApp-backend.git
    cd ChatApp-backend
    npm install
-2️⃣ Configure Environment Variables
+2️. Configure Environment Variables
 Create a .env file in the root directory and add the required environment variables:
    ```sh
   PORT=5000  
   MONGO_URI=your_mongodb_connection_string
 ---
-3️⃣ Start the Backend Server
+3️ Start the Backend Server
    ```sh
   npm start
