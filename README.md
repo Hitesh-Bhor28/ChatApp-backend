@@ -4,7 +4,9 @@
 ```sh  
    git clone https://github.com/Hitesh-Bhor28/ChatApp-backend.git  
    cd ChatApp-backend  
-   npm install  
+   npm install
+
+---
 
 2️⃣ Configure Environment Variables
 ```sh  
