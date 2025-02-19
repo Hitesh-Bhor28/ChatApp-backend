@@ -9,7 +9,7 @@ Create a .env file in the root directory and add the required environment variab
    ```sh
   PORT=5000  
   MONGO_URI=your_mongodb_connection_string
-
+---
 3️⃣ Start the Backend Server
    ```sh
   npm start
