@@ -1,10 +1,11 @@
 ## 📌 **How to Run the Backend**  
 1. Clone the ChatApp Backend repository  
-   ```sh
-   git clone https://github.com/Hitesh-Bhor28/ChatApp-backend.git
-   cd ChatApp-backend
+   ```sh  
+   git clone https://github.com/Hitesh-Bhor28/ChatApp-backend.git  
+   cd ChatApp-backend  
    npm install
-2️. Configure Environment Variables
+   
+2️. Configure Environment Variables  
 Create a .env file in the root directory and add the required environment variables:
    ```sh
   PORT=5000  
