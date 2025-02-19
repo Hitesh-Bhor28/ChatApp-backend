@@ -1,4 +1,4 @@
-📌 **How to Run the Backend  
+📌 How to Run the Backend  
 
 1️⃣ Clone the ChatApp Backend Repository  
    git clone https://github.com/Hitesh-Bhor28/ChatApp-backend.git  
